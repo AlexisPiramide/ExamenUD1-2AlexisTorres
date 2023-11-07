@@ -411,7 +411,6 @@ function guardarEnLocalStorage(id, objeto) {
 
 
 /*Script que inicia el progama*/
-
 i = 0;
 while (i === 0) {
     menu();
